@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "gitlab" {
-    token = "glpat-shR4ZwBh--wggNWxDfkk"
+    token = "xxx"
 }
 
 resource "gitlab_project" "meu-projeto-gitlab" {
