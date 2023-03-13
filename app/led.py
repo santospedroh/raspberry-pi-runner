@@ -8,7 +8,7 @@ GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(12, GPIO.OUT)
 
-print("---------- Inicio -----------")
+print("----------- Inicio -----------")
 for i in range(cont):
     GPIO.output(pinoLed, GPIO.HIGH)
     time.sleep(1)
@@ -16,5 +16,5 @@ for i in range(cont):
     time.sleep(1)
     i = i+1
     print("Piscou... " + str(i) + " de " + str(cont) + "")
-print("------------ Fim ------------")
+print("------------- Fim ------------")
 GPIO.cleanup()
