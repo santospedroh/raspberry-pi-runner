@@ -9,3 +9,13 @@ Estamos em 2023, o carnaval já passou e agora estou retomando meus estudos e la
 
 Já que agora já temos um runner instalado e configurado no Raspberry Pi para executar os jobs do GitHub Actions tive a ideia de fazer o deploy de um programinha em python para piscar um led utilizando as portas GPIO do Raspberry Pi.
 
+### Veja o resultado final no YouTube
+
+![Raspberry runner GitHub](img/print_youtube.png "video")
+
+https://www.youtube.com/watch?v=_tl1sIPXpPo
+
+
+---
+
+Made with ♥ by Pedro Santos :wave: [Get in touch!](https://www.linkedin.com/in/santospedroh/)
