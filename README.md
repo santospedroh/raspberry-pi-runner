@@ -11,4 +11,4 @@ Já que agora já temos um runner instalado e configurado no Raspberry Pi para e
 
 ### Veja o resultado final no YouTube
 
-[![Raspberry runner GitHub](img/print_youtube.png)](https://www.youtube.com/watch?v=_tl1sIPXpPo){:target="_blank"}
+![Raspberry runner GitHub](img/print_youtube.png "video")](https://www.youtube.com/watch?v=_tl1sIPXpPo){:target="_blank"}
