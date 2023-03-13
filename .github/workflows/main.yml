@@ -13,10 +13,8 @@ jobs:
         run: echo Hello, world in runner raspberry-pi && uname -a
   ## Novo Job pisca led 
   led:
+    needs: hello-world
     runs-on: self-hosted
     steps:
       - name: Run script python blink led 10x
         run: python3 app/led.py
-    
-        
-        
